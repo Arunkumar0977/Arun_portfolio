@@ -98,12 +98,15 @@ const Hero = () => {
               Contact Me
             </Button>
             <a 
-              href="/Arunkumar_Resume.pdf" 
-              download 
-              className="px-5 py-1.7 text-lg border border-cyan-400 text-cyan-400 rounded-md hover:bg-cyan-400 hover:text-slate-900 transition-all duration-300 inline-flex items-center justify-center"
-            >
-            Download Resume
-            </a>
+  href="/ArunKumar_Resume.pdf" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="px-6 py-2 text-lg border border-cyan-400 text-cyan-400 rounded-md hover:bg-cyan-400 hover:text-slate-900 transition-all duration-300 inline-flex items-center justify-center"
+>
+  Download Resume
+</a>
+
+
 
 
           </div>
