@@ -45,7 +45,6 @@ Welcome to my personal developer portfolio! This website showcases my skills, pr
 |-----------|------------------|
 | ![Home](screenshots/home.png) | ![Projects](screenshots/projects.png) |
 
-> _Add actual screenshots in the `/screenshots` folder of your repo._
 
 ---
 
@@ -65,7 +64,7 @@ I’m **Arun Kumar**, a Computer Science undergraduate passionate about building
 
 Feel free to connect with me!
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: arunkumar977977@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/arun-kumar](https://linkedin.com/in/arun-kumar)
 - 💼 GitHub: [github.com/Arunkumar0977](https://github.com/Arunkumar0977)
 
