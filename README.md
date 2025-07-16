@@ -65,7 +65,7 @@ I’m **Arun Kumar**, a Computer Science undergraduate passionate about building
 Feel free to connect with me!
 
 - 📧 Email: arunkumar977977@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/arun-kumar](https://github.com/Arunkumar0977)
+- 🔗 LinkedIn: [linkedin.com/in/arun-kumar](https://www.linkedin.com/in/arunkr0977/)
 - 💼 GitHub: [github.com/Arunkumar0977](https://github.com/Arunkumar0977)
 
 ---
