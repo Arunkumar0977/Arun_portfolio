@@ -1,83 +1,73 @@
-# 🧑‍💻 Arun Kumar — Developer Portfolio
+# Welcome to your Lovable project
 
-![[Website Preview(https://arun-portfolio-yj1x.vercel.app/preview.png)]
+## Project info
 
-Welcome to my personal developer portfolio! This website showcases my skills, projects, experience, and technical background as a Computer Science student and aspiring full-stack developer.
+**URL**: https://lovable.dev/projects/3e036afd-3c74-4907-b930-6cfc08898a19
 
-🌐 **Live Website**: [arun-portfolio-yj1x.vercel.app](https://arun-portfolio-yj1x.vercel.app/)
+## How can I edit this code?
 
----
+There are several ways of editing your application.
 
-## 🚀 Features
+**Use Lovable**
 
-- ✨ Clean, responsive, and mobile-friendly design
-- 🧾 About Me section with background and interests
-- 🛠️ Skills section highlighting core technologies and tools
-- 💼 Project showcase with links and descriptions
-- 📞 Contact form and social media links
-- 🌙 Dark mode support (if included)
+Simply visit the [Lovable Project](https://lovable.dev/projects/3e036afd-3c74-4907-b930-6cfc08898a19) and start prompting.
 
----
+Changes made via Lovable will be committed automatically to this repo.
 
-## 🛠️ Tech Stack
+**Use your preferred IDE**
 
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript.
-- **Framework**: React.js.
-- **Deployment**: [Vercel](https://vercel.com/)
-- **Design**: Tailwind CSS / Custom CSS.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
----
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## 📁 Folder Structure (if available)
-/public
-/src
-├── components
-├── pages
-├── assets
-└── styles
+Follow these steps:
 
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
----
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-## 📸 Screenshots
+# Step 3: Install the necessary dependencies.
+npm i
 
-| Home Page | Projects Section |
-|-----------|------------------|
-| ![Home](screenshots/home.png) | ![Projects](screenshots/projects.png) |
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
+**Edit a file directly in GitHub**
 
----
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-## 👨‍💼 About Me
+**Use GitHub Codespaces**
 
-I’m **Arun Kumar**, a Computer Science undergraduate passionate about building full-stack applications, exploring emerging technologies, and solving real-world problems using code.
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-🔍 Interests:
-- Web Development
-- Cybersecurity & Governance
-- IoT & Real-time Systems
-- Machine Learning & AI
+## What technologies are used for this project?
 
----
+This project is built with:
 
-## 📬 Contact
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-Feel free to connect with me!
+## How can I deploy this project?
 
-- 📧 Email: arunkumar977977@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/arun-kumar](https://www.linkedin.com/in/arunkr0977/)
-- 💼 GitHub: [github.com/Arunkumar0977](https://github.com/Arunkumar0977)
+Simply open [Lovable](https://lovable.dev/projects/3e036afd-3c74-4907-b930-6cfc08898a19) and click on Share -> Publish.
 
----
+## Can I connect a custom domain to my Lovable project?
 
-## 🧾 License
+Yes, you can!
 
-This project is open-source and available under the [MIT License](LICENSE).
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
----
-
-## 🌟 Support
-
-If you like this project, consider giving it a ⭐ on GitHub! Your support is appreciated. 😊
-
-
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
