@@ -36,7 +36,10 @@ npm i
 npm run dev
 ```
 
+<<<<<<< HEAD
 **Edit a file directly in GitHub**
+=======
+>>>>>>> e21906a (added screenshots folder)
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
@@ -62,7 +65,13 @@ This project is built with:
 
 ## How can I deploy this project?
 
+<<<<<<< HEAD
 Simply open [Lovable](https://lovable.dev/projects/3e036afd-3c74-4907-b930-6cfc08898a19) and click on Share -> Publish.
+=======
+- 📧 Email: arunkumar977977@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/arun-kumar](https://www.linkedin.com/in/arunkr0977/)
+- 💼 GitHub: [github.com/Arunkumar0977](https://github.com/Arunkumar0977)
+>>>>>>> e21906a (added screenshots folder)
 
 ## Can I connect a custom domain to my Lovable project?
 
