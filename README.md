@@ -1,6 +1,6 @@
 # 🧑‍💻 Arun Kumar — Developer Portfolio
 
-![Website Preview](https://arun-portfolio-yj1x.vercel.app/preview.png) <!-- Optional: Add a screenshot preview -->
+![[Website Preview(https://arun-portfolio-yj1x.vercel.app/preview.png)]
 
 Welcome to my personal developer portfolio! This website showcases my skills, projects, experience, and technical background as a Computer Science student and aspiring full-stack developer.
 
