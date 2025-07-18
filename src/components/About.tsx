@@ -6,7 +6,7 @@ const About = () => {
     label: 'Completed Projects',
     suffix: ''
   }, {
-    number: '5',
+    number: '60',
     label: 'Client Satisfaction',
     suffix: '%'
   }, {
@@ -24,7 +24,7 @@ const About = () => {
         
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <p className="text-lg text-gray-300 leading-relaxed">I’m a B.Tech Computer Science student specializing in IoT, with a strong background in programming and web development. I’ve built several real-world projects that blend IoT hardware with software solutions, demonstrating my ability to solve practical problems.
+            <p className="text-lg text-gray-300 leading-relaxed">I’m a B.Tech Computer Science student specializing in IoT, with a strong background in programming and web development. I’ve built real-world projects that blend IoT hardware with software solutions, demonstrating my ability to solve practical problems.
 
 Driven by curiosity and a passion for technology, I continuously explore new tools and trends to build efficient, future-ready applications. From responsive web interfaces to smart IoT systems, I enjoy creating solutions that make a meaningful impact.
 
