@@ -7,9 +7,9 @@ import { Github, ExternalLink } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: 'Language Translation with Machine Learning',
-      description: 'Real-time multilingual translation system using advanced NLP models including LSTM, BERT, and T5 for accurate and contextual translations.',
-      technologies: ['Python', 'TensorFlow', 'Hugging Face', 'NLTK', 'SpaCy'],
+      title: 'AI Trip Planner',
+      description: 'A full-stack application that leverages AI to create personalized travel itineraries based on user preferences, budget, and location. ',
+      technologies: ['Next.js', 'TypeScript', 'OpenAI', 'Google Place API', 'Convex', 'Clerk', 'Arcjet'],
       status: 'Ongoing',
       image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&h=300&fit=crop',
     },
