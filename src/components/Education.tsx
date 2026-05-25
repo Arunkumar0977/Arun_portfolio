@@ -3,12 +3,12 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { GraduationCap } from 'lucide-react';
 const Education = () => {
   const educationData = [{
-    institution: 'Maharana Institute of Professional Studies',
+    institution: 'Maharana Pratap Engineering College',
     location: 'Kanpur, UP, India',
-    degree: 'Bachelor of Technology - Computer Science',
-    grade: 'GPA: 7.91',
-    status: 'Pursuing',
-    period: '2021 - 2025'
+    degree: 'Bachelor of Technology - Computer Science Engineering',
+    grade: 'CGPA: 8.22',
+    status: 'Completed',
+    period: '2022 - 2026'
   }, {
     institution: 'Sainik School Nalanda',
     location: 'Nalanda, Bihar, India',
